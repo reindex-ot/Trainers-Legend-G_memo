@@ -1,3 +1,4 @@
+![適切!良い判断だな!](/img/akikawayayoi.png)
 # Trainers-Legend-G について (日本のトレーナー向け)
 Trainers-Legend-Gの使い方のメモやリンクなどをまとめるリポジトリです。
 
