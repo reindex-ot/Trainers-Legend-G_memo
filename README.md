@@ -13,7 +13,7 @@ READMEにもありますが、「**このプラグインはゲームファイル
 - [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/blob/main/README_JA.md)
 - [Trainers' Legend G 翻訳倉庫](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/blob/master/readme_ja.md)
 
-## 🔗 各種ダウンロード先
+## 🥕 各種ダウンロード先
 Trainers-Legend-Gの本体となるプラグインとExternal-Plugin (外部プラグイン) のダウンロード先です。
 - [Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G/releases)
 - [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/releases)
@@ -38,7 +38,7 @@ Trainers-Legend-Gの本体となるプラグインとExternal-Plugin (外部プ�
 - [Discord](https://discord.com/invite/TBCSv5hU69)
 - [QQ](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
 
-## 🍙 補足
+## 🔗 補足
 [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)を使う事でウマ娘のアプリケーションのアップデートをDMMGamePlayerを経由させる必要なしで行えるようになります。
 「Trainers-Legend-G-External-Pluginにこれをマージさせてみない?」と話をしましたが、やる気はないそうなので使い分けてください。
 
