@@ -33,6 +33,11 @@ Trainers-Legend-Gの本体となるプラグインとExternal-Plugin (外部プ�
 
 **A. config.json消す事でリセットできます。ファイルは、`C:\Users\ユーザー名\Umamusume`にあります。**
 
+## チャットでの質問や情報の共有、バグの報告や翻訳の技術的な質問など
+公式でDiscordかQQ (中国圏向け) があります。お気軽にご参加ください。
+- [Discord](https://discord.com/invite/TBCSv5hU69)
+- [QQ](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
+
 ## 補足
 [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)を使う事でウマ娘のアプリケーションのアップデートをDMMGamePlayerを経由させる必要なしで行えるようになります。
 「Trainers-Legend-G-External-Pluginにこれをマージさせてみない?」と話をしましたが、やる気はないそうなので使い分けてください。
