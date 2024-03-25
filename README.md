@@ -20,8 +20,8 @@ READMEにもありますが、「**このプラグインはゲームファイル
 
 ## 🥕 各種ダウンロード先
 Trainers-Legend-Gの本体となるプラグインとExternal-Plugin (外部プラグイン) のダウンロード先です。
-- [Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G/releases)
-- [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/releases)
+- [Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
+- [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/releases/latest)
 
 ## 🍀 Trainers-Legend-Gのインストールと使用方法
 ウマ娘のインストールされているディレクトリ (`C:\Users\ユーザー名\Umamusume`) にそれぞれのファイルを入れてください。
