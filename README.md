@@ -1,4 +1,9 @@
 ![適切!良い判断だな!](/img/akikawayayoi.png)
+
+
+[![Download](https://img.shields.io/github/v/release/MinamiChiwa/umamusume-localify-zh-CN?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
+[![Discord](https://img.shields.io/discord/973208860217200653?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/TBCSv5hU69)
+[![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
 # 🏇 Trainers-Legend-Gについて (日本のトレーナー向け)
 Trainers-Legend-Gの使い方のメモやリンクなどをまとめるリポジトリです。
 
