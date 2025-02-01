@@ -24,8 +24,8 @@ Trainers' Legend Gの本体となるプラグインとExternal-Plugin (外部プ
 - [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/releases/latest)
 
 ## 🍀 Trainers' Legend Gのインストールと使用方法
-> [!NOTE]
-> 最新版のDMM版ウマ娘は、ゲームのディレクトリ内にTrainers' Legend Gのファイルを入れるとウマ娘が起動しなくなります。
+> [!CAUTION]
+> 最新のDMM版ウマ娘は、ゲームのディレクトリ内にTrainers' Legend Gのファイルを入れるとウマ娘が起動しなくなります。
 
 ~~ウマ娘のインストールされているディレクトリ (`C:\Users\ユーザー名\Umamusume`) にそれぞれのファイルを入れてください。~~ <br>
 ~~ファイルを入れた後にウマ娘を起動する事で、Trainers-Legend-G-External-Pluginのウィンドウが自動的に開かれます。~~ <br>
