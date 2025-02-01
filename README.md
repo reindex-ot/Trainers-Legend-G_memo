@@ -1,4 +1,4 @@
-![適切!良い判断だな!](/img/akikawayayoi.png)
+![適切!良い判断だな!](./img/akikawayayoi.png)
 
 
 [![Download](https://img.shields.io/github/v/release/MinamiChiwa/umamusume-localify-zh-CN?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
