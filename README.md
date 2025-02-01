@@ -24,10 +24,23 @@ Trainers' Legend Gの本体となるプラグインとExternal-Plugin (外部プ
 - [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/releases/latest)
 
 ## 🍀 Trainers' Legend Gのインストールと使用方法
-ウマ娘のインストールされているディレクトリ (`C:\Users\ユーザー名\Umamusume`) にそれぞれのファイルを入れてください。
-ファイルを入れた後にウマ娘を起動する事で、Trainers-Legend-G-External-Pluginのウィンドウが自動的に開かれます。既定では中国語訳とフォントの設定になっているので、**Trainers-Legend-G-External-Pluginの設定で翻訳とフォントの置換を無効化**してください。基本的には上記の2つを一緒にインストールする事を強く推奨します。
+> [!NOTE]
+> 最新版のDMM版ウマ娘は、ゲームのディレクトリ内にTrainers' Legend Gのファイルを入れるとウマ娘が起動しなくなります。
 
-他にもFPSや解像度、ストーリーとレースのフルスクリーン化、60FPS化の最適化、ウマ娘の置換設定、ライブのフック制限の解除の設定などを各自で行なってください。
+~~ウマ娘のインストールされているディレクトリ (`C:\Users\ユーザー名\Umamusume`) にそれぞれのファイルを入れてください。~~ <br>
+~~ファイルを入れた後にウマ娘を起動する事で、Trainers-Legend-G-External-Pluginのウィンドウが自動的に開かれます。~~ <br>
+既定では中国語訳とフォントの設定になっているので、**Trainers-Legend-G-External-Pluginの設定で翻訳とフォントの置換を無効化**をしてください。<br>
+~~基本的には上記の2つを一緒にインストールする事を強く推奨します。~~
+
+### ⚠ 現バージョンでのインストール方法
+1. `C:\Users\ユーザー名\Umamusume` **以外**にディレクトリを作成し、Trainers' Legend Gのファイルを展開してください。
+2. `Trainers-Legend-G-External-Plugin`も作成したディレクトリ内に入れてください。
+3. 次にWindowsセキュリティのコア分離内にある、「メモリ整合性」を無効化してください(OSの再起動が必要です)。
+4. 再起動後にディレクトリに展開した`tlg_starter.exe`を実行します。
+5. 実行後に`Now you can start umamusume.`が表示された後、ウマ娘が起動します(Trainers-Legend-G-External-Pluginも同時起動します)。
+
+起動しなかった場合は、DMM版ウマ娘を再インストールとTrainers' Legend Gの設定をし直してください。<br>
+FPSや解像度、ストーリーとレースのフルスクリーン化、60FPS化の最適化、ウマ娘の置換設定、ライブのフック制限の解除の設定などを各自で行なってください。
 
 ## ❓ FAQ
 **Q. Trainers' Legend Gのアップデートは?**
