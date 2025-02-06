@@ -39,6 +39,13 @@ Trainers' Legend Gの本体となるプラグインとExternal-Plugin (外部プ
 4. 再起動後にディレクトリに展開した`tlg_starter.exe`を実行します。
 5. 実行後に`Now you can start umamusume.`が表示された後、ウマ娘が起動します(Trainers-Legend-G-External-Pluginも同時起動します)。
 
+### 📘 補足情報
+#### tlg_starter.exeのUAC自動昇格
+tlg_starter.exeは起動時にUACの許可を求めます。<br>
+これが地味に面倒と感じる場合は、[Skip UAC Prompt](https://www.sordum.org/16219/skip-uac-prompt-v1-2/)を使用することでUACを自動昇格するショートカットが作成できます。
+#### ウマ娘の実行を高速化とUACを自動昇格
+[DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)を併用することでDMMGamePlayerを経由せずに起動とUACの自動昇格を行うショートカットが作成できます。
+
 起動しなかった場合は、DMM版ウマ娘を再インストールとTrainers' Legend Gの設定をし直してください。<br>
 FPSや解像度、ストーリーとレースのフルスクリーン化、60FPS化の最適化、ウマ娘の置換設定、ライブのフック制限の解除の設定などを各自で行なってください。
 
