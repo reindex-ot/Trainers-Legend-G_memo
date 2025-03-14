@@ -37,7 +37,7 @@ Trainers' Legend Gの本体となるプラグインとExternal-Plugin (外部プ
 2. `Trainers-Legend-G-External-Plugin`も作成したディレクトリ内に入れてください。
 3. 次にWindowsセキュリティのコア分離内にある、「メモリ整合性」を無効化してください(OSの再起動が必要です)。
 4. 再起動後にディレクトリに展開した`tlg_starter.exe`を実行します。
-5. 実行後に`Now you can start umamusume.`が表示された後、ウマ娘が起動します(Trainers-Legend-G-External-Pluginも同時起動します)。
+5. 実行後に`Now you can start umamusume.`が表示された後、ウマ娘を起動します(Trainers-Legend-G-External-Pluginは自動的に起動します)。
 
 ### 📘 補足情報
 #### tlg_starter.exeのUAC自動昇格
